@@ -9,10 +9,10 @@ Trust me, you are not able to beat the computer enemy I made. Challenge accepted
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=noughts-and-crosses&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/noughts-and-crosses)
 
 Some useful practical bash scripts.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=bash-OS&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/SO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=SO2&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/SO2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=business-app-java&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/business-app-java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=costume-rental-app-sql-python&theme=cobalt&show_owner=true)](https://github.com/Agstarte/wypozyczalnia_kostiumow/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=wypozyczalnia_kostiumow&theme=cobalt&show_owner=true)](https://github.com/Agstarte/wypozyczalnia_kostiumow/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=genetic-algorithm&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/genetic-algorithm)
 
