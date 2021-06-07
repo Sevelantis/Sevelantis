@@ -9,7 +9,7 @@ I challenge YOU. You are not able to beat the computer enemy I made. Challenge a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=noughts-and-crosses&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/noughts-and-crosses)
 
-Some useful practical bash scripts.
+Some useful practical bash scripts below:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=SO2&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/SO2)
 
