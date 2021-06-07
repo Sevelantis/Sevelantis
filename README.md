@@ -21,6 +21,6 @@ Some useful practical bash scripts below:
 
 [![Miron's git stats](https://github-readme-stats.vercel.app/api?username=sevelantis&hide=stars,prs,issues&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&line_height=30)](https://github.com/sevelantis)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevelantis)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/sevelantis?username=sevelantis)](https://github.com/anuraghazra/github-readme-stats)
 
 
