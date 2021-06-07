@@ -6,9 +6,11 @@ Some of my latest projects:
 [![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/multithreading-server-requests)
 
 Trust me, you are not able to beat the computer enemy I made. Challenge accepted?
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=noughts-and-crosses&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/noughts-and-crosses)
 
 Some useful practical bash scripts.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=SO2&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/SO2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=business-app-java&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/business-app-java)
