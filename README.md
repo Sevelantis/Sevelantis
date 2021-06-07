@@ -1,7 +1,9 @@
 # 🚀 Welcome 🚀
 See my latest projects!
 
-[![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=nightowl&show_owner=false)](https://github.com/Sevelantis/weather-station-stm32/) [![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=nightowl&show_owner=false")](https://github.com/Sevelantis/multithreading-server-requests/)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+[![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=nightowl&show_owner=false)](https://github.com/Sevelantis/weather-station-stm32/) | [![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=nightowl&show_owner=false")](https://github.com/Sevelantis/multithreading-server-requests/)
 
 [![I challenge YOU. You are not able to beat the computer enemy I made. Challenge accepted?](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=noughts-and-crosses&theme=gruvbox&show_owner=false)](https://github.com/Sevelantis/noughts-and-crosses) [![SO2](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=SO2&theme=gruvbox&show_owner=false)](https://github.com/Sevelantis/SO2)
 
