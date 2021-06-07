@@ -1,4 +1,4 @@
-# Welcome 🚀!
+# 🚀 Welcome 🚀!
 Some of my latest projects:
 
 [![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/weather-station-stm32/)
@@ -20,4 +20,7 @@ Some useful practical bash scripts below:
 [![genetic-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=genetic-algorithm&theme=cobalt&show_owner=true)](https://github.com/Sevelantis/genetic-algorithm)
 
 [![Miron's git stats](https://github-readme-stats.vercel.app/api?username=sevelantis&hide=stars,prs,issues&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true&line_height=30)](https://github.com/sevelantis)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
