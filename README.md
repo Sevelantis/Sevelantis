@@ -1,9 +1,9 @@
 # 🚀 Welcome 🚀
 Some of my latest projects:
 
-[![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=nightowl&show_owner=false&layout=compact)](https://github.com/Sevelantis/weather-station-stm32/)
+[![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=nightowl&show_owner=false&layout="compact")](https://github.com/Sevelantis/weather-station-stm32/)
 
-[![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=nightowl&show_owner=false&layout=compact)](https://github.com/Sevelantis/multithreading-server-requests/)
+[![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=nightowl&show_owner=false&layout="compact")](https://github.com/Sevelantis/multithreading-server-requests/)
 
 I challenge YOU. You are not able to beat the computer enemy I made. Challenge accepted?
 
