@@ -12,4 +12,4 @@ Currently working on:
 [![business-app-java](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=business-app-java&theme=ocean_dark&show_owner=false)](https://github.com/Sevelantis/business-app-java) 
 [![genetic-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=genetic-algorithm&theme=ocean_dark&show_owner=false)](https://github.com/Sevelantis/genetic-algorithm) 
 
-[![Who needs stats](https://github-readme-stats.vercel.app/api?username=sevelantis&hide=stars,prs,issues&count_private=true&show_icons=true&theme=ocean_dark&include_all_commits=true&line_height=30)](https://github.com/sevelantis)
+[![Who needs stats](https://github-readme-stats.vercel.app/api?username=sevelantis&hide=stars,prs,issues&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true&line_height=100)](https://github.com/sevelantis)
