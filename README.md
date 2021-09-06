@@ -3,7 +3,7 @@ See my latest projects!
 
 Currently working on:
 
-[![weather-station](https://github-readme-stats.vercel.app/api/pin/?username=Sevelantis&repo=weather-station&theme=great-gatsby&show_owner=true)](https://github.com/sevelantis/weather-station/) 
+[![weather-station](https://github-readme-stats.vercel.app/api/pin/?username=Sevelantis&repo=weather-station&theme=great-gatsby&show_owner=true)](https://github.com/sevelantis/weather-station/)
 [![docker-logging](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=docker-logging&theme=merko&show_owner=true)](https://github.com/Sevelantis/docker-logging/) 
 [![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=merko&show_owner=true)](https://github.com/Sevelantis/multithreading-server-requests/)
 [![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=merko&show_owner=false)](https://github.com/Sevelantis/weather-station-stm32/)
