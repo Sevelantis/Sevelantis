@@ -10,4 +10,4 @@ See my latest projects!
 [![docker-logging](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=docker-logging&theme=ocean_dark&show_owner=true)](https://github.com/Sevelantis/docker-logging/) 
 [![weather-station-stm32](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=weather-station-stm32&theme=merko&show_owner=false)](https://github.com/Sevelantis/weather-station-stm32/)
 
-[![Who needs stats](https://github-readme-stats.vercel.app/api?username=sevelantis&count_private=true&show_icons=true&theme=maroongold&include_all_commits=true&line_height=100)](https://github.com/sevelantis)
+[![Who needs stats](https://github-readme-stats.vercel.app/api?username=sevelantis&count_private=true&hide=prs,contribs&show_icons=true&theme=maroongold&include_all_commits=true&line_height=100)](https://github.com/sevelantis)
