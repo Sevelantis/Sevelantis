@@ -2,7 +2,7 @@
 See my latest projects!
 
 [![weather-station](https://github-readme-stats.vercel.app/api/pin/?username=Sevelantis&repo=weather-station&theme=great-gatsby&show_owner=true)](https://github.com/sevelantis/weather-station/)
-[![spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=cinema-backend-app&theme=merko&show_owner=false)](https://github.com/Sevelantis/cinema-backend-app)
+[![spring-boot-backed](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=cinema-backend-app&theme=merko&show_owner=false)](https://github.com/Sevelantis/cinema-backend-app)
 [![Bash-Labs](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=Bash-Labs&theme=radical&show_owner=false)](https://github.com/Sevelantis/Bash-Labs)
 [![multithreading-server-requests](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=multithreading-server-requests&theme=merko&show_owner=true)](https://github.com/Sevelantis/multithreading-server-requests/)
 [![genetic-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=sevelantis&repo=genetic-algorithm&theme=ocean_dark&show_owner=false)](https://github.com/Sevelantis/genetic-algorithm) 
